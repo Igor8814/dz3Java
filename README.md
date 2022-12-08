@@ -1,4 +1,4 @@
-~~~
+```java
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -91,4 +91,4 @@ public class program3 {
         System.out.println("11. Time for add element in LinkedList: " + (System.nanoTime() - t1) + " nanoseconds");
     }
 }
-~~~
+```
